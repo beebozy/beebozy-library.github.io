@@ -1,0 +1,12 @@
+#new-book-btn{
+display: block;
+margin: 0 auto;
+padding: 20px;
+font-size: 20px;
+background-color: rebeccapurple;
+color:white;
+border: none;
+border-radius: 10px;
+cursor: pointer;
+
+}
